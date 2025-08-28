@@ -13,8 +13,7 @@ public class TP2_13 {
 
         System.out.println("Precios originales:");
         mostrarPreciosRecursivo(precios, 0);
-
-        // Modificar un precio específico
+        
         precios[2] = 129.99;
 
         System.out.println("Precios modificados:");
