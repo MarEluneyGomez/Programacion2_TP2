@@ -13,7 +13,7 @@ public class TP2_12 {
             System.out.println("Precio: $" + precio);
         }
 
-        // Modificar un precio específico (ejemplo: índice 2)
+
         precios[2] = 129.99;
 
         System.out.println("Precios modificados:");
